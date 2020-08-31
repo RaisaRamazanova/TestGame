@@ -16,7 +16,6 @@
 		59C1408724FBF1A7005648FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59C1408624FBF1A7005648FA /* Assets.xcassets */; };
 		59C1408A24FBF1A7005648FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59C1408824FBF1A7005648FA /* LaunchScreen.storyboard */; };
 		59C1409224FBF2F4005648FA /* vzryv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59C1409124FBF2F4005648FA /* vzryv.mp3 */; };
-		59C1409424FBF2FD005648FA /* prygok.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 59C1409324FBF2FD005648FA /* prygok.mp3 */; };
 		59C1409624FBF341005648FA /* Fire.sks in Resources */ = {isa = PBXBuildFile; fileRef = 59C1409524FBF341005648FA /* Fire.sks */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +31,6 @@
 		59C1408924FBF1A7005648FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		59C1408B24FBF1A7005648FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59C1409124FBF2F4005648FA /* vzryv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vzryv.mp3; sourceTree = "<group>"; };
-		59C1409324FBF2FD005648FA /* prygok.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = prygok.mp3; sourceTree = "<group>"; };
 		59C1409524FBF341005648FA /* Fire.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fire.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,7 +71,6 @@
 				59C1409524FBF341005648FA /* Fire.sks */,
 				59C1408124FBF19D005648FA /* GameViewController.swift */,
 				59C1409124FBF2F4005648FA /* vzryv.mp3 */,
-				59C1409324FBF2FD005648FA /* prygok.mp3 */,
 				59C1408324FBF19D005648FA /* Main.storyboard */,
 				59C1408624FBF1A7005648FA /* Assets.xcassets */,
 				59C1408824FBF1A7005648FA /* LaunchScreen.storyboard */,
@@ -141,7 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				59C1409224FBF2F4005648FA /* vzryv.mp3 in Resources */,
-				59C1409424FBF2FD005648FA /* prygok.mp3 in Resources */,
 				59C1408524FBF19D005648FA /* Main.storyboard in Resources */,
 				59C1407C24FBF19D005648FA /* GameScene.sks in Resources */,
 				59C1408724FBF1A7005648FA /* Assets.xcassets in Resources */,
